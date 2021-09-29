@@ -9,11 +9,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloRazor", "HelloRazor\He
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWebAPI", "HelloWebAPI\HelloWebAPI.csproj", "{AC700F28-E603-4E10-8114-5DDAAE655FBF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloEmpty", "HelloEmpty\HelloEmpty.csproj", "{A15207A3-2AD9-4BD3-9EC9-D9593A112475}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCTutorial", "HelloEmpty\MVCTutorial.csproj", "{A15207A3-2AD9-4BD3-9EC9-D9593A112475}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloBlazor", "HelloBlazor\HelloBlazor.csproj", "{5B18F07D-5480-413C-8508-4A4B22A379E1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloBlazorClient", "HelloBlazorClient\HelloBlazorClient.csproj", "{99DD733A-6E9D-41BD-9630-39464B084258}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorTutorial", "RazorTutorial\RazorTutorial.csproj", "{6FC78242-073C-4A46-8F8F-B57C0B1D3262}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPITutorial", "WebAPITutorial\WebAPITutorial.csproj", "{9D19E606-68DF-45E2-8B7E-EAB3EAED5DD2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{99DD733A-6E9D-41BD-9630-39464B084258}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99DD733A-6E9D-41BD-9630-39464B084258}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99DD733A-6E9D-41BD-9630-39464B084258}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FC78242-073C-4A46-8F8F-B57C0B1D3262}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FC78242-073C-4A46-8F8F-B57C0B1D3262}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FC78242-073C-4A46-8F8F-B57C0B1D3262}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FC78242-073C-4A46-8F8F-B57C0B1D3262}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D19E606-68DF-45E2-8B7E-EAB3EAED5DD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D19E606-68DF-45E2-8B7E-EAB3EAED5DD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D19E606-68DF-45E2-8B7E-EAB3EAED5DD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D19E606-68DF-45E2-8B7E-EAB3EAED5DD2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b75lKQpESgYYt4oEOzyuqTYedHJ3ntPGA8QOIoqJGybmzgE4xDzLOcfi7ebdlXVQjaZrk94rmLSrli+zFjboDQ==",
+  "dgSpecHash": "YJJoCGvcwzUq1n1H112zHWwt0nNid6QhUsvdHRu6fA2cCf9EPE7/j6Ku1Y/2Swe+1fhzqzSw18O2w1oKEzxavg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mhoow\\project\\HelloAspNet\\HelloEmpty\\HelloEmpty.csproj",
+  "projectFilePath": "C:\\Users\\mhoow\\project\\HelloAspNet\\HelloEmpty\\MVCTutorial.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

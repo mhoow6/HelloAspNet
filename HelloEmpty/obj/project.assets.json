@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mhoow\\project\\HelloAspNet\\HelloEmpty\\HelloEmpty.csproj",
-      "projectName": "HelloEmpty",
-      "projectPath": "C:\\Users\\mhoow\\project\\HelloAspNet\\HelloEmpty\\HelloEmpty.csproj",
+      "projectUniqueName": "C:\\Users\\mhoow\\project\\HelloAspNet\\HelloEmpty\\MVCTutorial.csproj",
+      "projectName": "MVCTutorial",
+      "projectPath": "C:\\Users\\mhoow\\project\\HelloAspNet\\HelloEmpty\\MVCTutorial.csproj",
       "packagesPath": "C:\\Users\\mhoow\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\mhoow\\project\\HelloAspNet\\HelloEmpty\\obj\\",
       "projectStyle": "PackageReference",
