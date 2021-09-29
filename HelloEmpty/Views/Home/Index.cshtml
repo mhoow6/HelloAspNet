@@ -1,0 +1,24 @@
+﻿<!-- HelloMessage 모델을 사용한다. -->
+<!-- Razor 파일을 뭔가를 그려주기 위해선 뷰 가져오기 파일이 필요하다.-->
+@model HelloEmpty.Models.HelloMessage
+
+<html>
+<head>
+    <title>Hello MVC!</title>
+</head>
+<body>
+    <h1>@Model.Message</h1>
+    <hr/>
+    <h2>@ViewBag.Noti</h2>
+
+    <!-- 컨트롤러: HomeController 액션: Index-->
+    <form asp-controller="Home" asp-action="Index" method="post">
+        <label asp-for="Message">Enter Message</label>
+        <br />
+        <input type="text" asp-for="Message" />
+        <br />
+        <button type="submit">Submit</button>
+    </form>
+
+</body>
+</html>
