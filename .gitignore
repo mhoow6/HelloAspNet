@@ -5,3 +5,6 @@ HelloMVC/
 HelloRazor/
 HelloWebAPI/
 .vs/
+
+# Ignore Files
+*.sln
