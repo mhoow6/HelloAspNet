@@ -12,7 +12,7 @@ namespace WebAPITutorial.Controllers
         public string Message { get; set; }
     }
 
-    // 다른 애들에서 Startup에서 라우팅한 것을 여기서 한다.
+    // MVC, MVMM Startup에서 라우팅을 여기서 한다.
     // https://localhost:44320/api/values
     [Route("api/[controller]")]
     [ApiController]
